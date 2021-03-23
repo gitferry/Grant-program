@@ -1,24 +1,21 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-**:loudspeaker:****:loudspeaker:****:loudspeaker:** 
+**:loudspeaker:******::anchor:**** **::point_down:****Important**
 
-The competitiveness and long-term success of a public blockchain platform depends on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To acctract more developers and projects to join VeChaain'e ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc.. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
+The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
 
 The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
 
-**With sincere appreciation for long-term support from Economic X Nodes holders, VeChain will support 50% additional fund for Economic X node. It's notable that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant. **
+**With sincere appreciation for long-term support from Economic X Nodes holders, VeChain will support 50% additional funds for Economic X node. It's notable that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant. **
 
----
+## Table of contents
 
 - [Guidelines](#guidelines)
-- [:pencil:Process](#process)
-- [Team](#team)
-    - [VeChain Grant Committee](#vechain-grant-committee)
-    - [VeChain Grant Evaluators](#vechain-grant-evaluators)
-    - [VeChain Operation Team](#vechain-operation-team)
-- [:bulb: Support](#support)
+- [Process](#process)
+- [Support](#support)
+  - [Team](#team)
   - [Additional information](#additional-information)
-  - [VeChain Dev Community Telegram](#VeChain Dev Community Telegram)
+  - [Dev Community Telegram](#VeChain Dev Community Telegram)
   - [Other Bounty Programs](#Other Bounty Programs)
 
 
@@ -28,11 +25,11 @@ Anyone is welcome to apply for a general grant. Projects funded through our prog
 
 Generally, your project will have better chances to get accepted if:
 
-- It presents a **well-researched** or tested concept, for which ideally you are able to show some prior work.
+- It presents a **well-researched** or tested concept, for which ideally you can show some prior work.
 - You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. We ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
 - Your application is **rich in technical details** and well-defined.
-- You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
+- You can present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
 
 Additionally, it must fulfill the following requirements:
 
@@ -43,7 +40,7 @@ Additionally, it must fulfill the following requirements:
 In addition to the information provided on your application, note that your project will need to comply with our [Grant Milestone Delivery](/milestone-delivery/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
 
 
-## :pencil: Application Process
+## Application Process
 
 1. **Application**
    1. [Fork](https://github.com/vechain/Grants-Program/) this repository.
@@ -63,10 +60,11 @@ In addition to the information provided on your application, note that your proj
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
+## :bulb: Support
 
-### Team
+#### Team
 
-#### VeChain Grant Committee
+##### VeChain Grant Committee
 
 The committee consists of individuals who know the funding priorities of the VeChain ecosystem and is responsible for evaluating grant applications and providing feedback on these.
 
@@ -77,9 +75,9 @@ In cases where a niche expert opinion is desirable, one of the committee members
 - [Bin Qian](https://github.com/qianbin)
 - pending？
 
-#### VeChain Grant Evaluators
+##### VeChain Grant Evaluators
 
-Evaluators are individuals who will perform the preliminary review to check whether the application is formatted correctly and includes all the requested information. The committee has the right to add or remove evaluators baseed on a supermajority.
+Evaluators are individuals who will perform the preliminary review to check whether the application is formatted correctly and includes all the requested information. The committee has the right to add or remove evaluators based on a supermajority.
 
 - [Tony Li](https://github.com/libotony)
 - [Jack Wu](https://github.com/XJWX89)
@@ -88,16 +86,12 @@ Evaluators are individuals who will perform the preliminary review to check whet
 - [Zhijie Ren](https://github.com/Zhijieren)
 - [Asbert Ma](http://github.com/asbertMa/)
 
-#### VeChain Operation Team
+##### VeChain Operation Team
 
-The Operations Team takes care of remittances.
+The Operations Team takes care of fund remittances.
 
 - [Janice Hua](https://github.com/JaniceVVV)
 - [Sherry Li](https://github.com/NecoSherry)
-
-## :bulb: Support
-
-The scope of our General Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources through [VeChain Dev Community](https://t.me/VeChainDevCommunity). 
 
 ### Additional information
 - [VeChain Foundation Website](https://vechain.org)
@@ -105,7 +99,7 @@ The scope of our General Grants Programs consists of funding and feedback on del
 - [VeChain Foundation Medium](https://vechainofficial.medium.com/)
 
 ### VeChain Dev Community Telegram
-We do not provide hands-on support to applications, but if you face specific technical issues during the developement, please join the [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity), we will do our best.
+We do not provide hands-on support to applications, but if you face specific technical issues during the development, please join the [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity), we will do our best.
 
 
 ### Other Bounty Programs
