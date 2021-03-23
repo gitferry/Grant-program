@@ -1,6 +1,6 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-:loudspeaker:::anchor:::point_down:**Important**
+:loudspeaker:::anchor:::point_down:**Introduction**
 
 The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
 
@@ -14,14 +14,13 @@ The VeChain General Grant Program focuses on supporting ecosystem projects and r
 - [Process](#process)
 - [Support](#support)
   - [Team](#team)
-  - [Additional information](#additional-information)
-  - [Dev Community Telegram](#vechain-dev-community-telegram)
   - [Other Bounty Programs](#other-bounty-programs)
+  - [Additional information](#additional-information)
 
 
 ## Guidelines
 
-Anyone is welcome to apply for a general grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects that add value to the ecosystem.
+Anyone is welcome to apply for a general grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects related to **Sync2/Connex, fee delegation protocols, MTT, etc** which add value to the ecosystem.
 
 Generally, your project will have better chances to get accepted if:
 
@@ -93,14 +92,6 @@ The Operations Team takes care of fund remittances.
 - [Janice Hua](https://github.com/JaniceVVV)
 - [Sherry Li](https://github.com/NecoSherry)
 
-### Additional information
-- [VeChain Foundation Website](https://vechain.org)
-- [VeChain Foundation Twitter](https://twitter.com/vechainofficial)
-- [VeChain Foundation Medium](https://vechainofficial.medium.com/)
-
-### VeChain Dev Community Telegram
-We do not provide hands-on support to applications, but if you face specific technical issues during the development, please join the [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity), we will do our best.
-
 
 ### Other Bounty Programs
 
@@ -108,6 +99,12 @@ Below is a list of other bounty programs in the VeChain ecosystem:
 
 - [VeChainThor Mainnet Bug Bounty](https://github.com/vechain/thor)
 - [VeChainThor Wallet Bug Bounty](https://vechain.typeform.com/to/c8xfxr)
+
+### Additional information
+- [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity)
+- [VeChain Foundation Website](https://vechain.org)
+- [VeChain Foundation Twitter](https://twitter.com/vechainofficial)
+- [VeChain Foundation Medium](https://vechainofficial.medium.com/)
 
 
 ## License <!-- omit in toc -->
