@@ -16,11 +16,10 @@ The milestone delivery process is part of the [General Grant Program](../README.
 :warning: Before you submit a milestone, make sure it complies with milestone deliverables described in the initial pull request.
 
 1. **Milestone Delivery:**
-   1. [Fork](https://github.com/vechain/Grants-Program/Grant-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
-   2. In the newly created fork, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
-   3. Name the file `project_name-milestone_number.md`.
-   4. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
-   5. Once you're done, create a pull request.
+   1. In the fork that you used to submit the applicaiton, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
+   2. Name the file `project_name-milestone_number.md`.
+   3. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
+   4. Once you're done, create a pull request.
 2. **Milestone Review:**
    1. [Evaluators](../README.md#vechain-grant-evaluators) can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
    2. Grants Evaluators will merge your pull request to accept the delivery.
