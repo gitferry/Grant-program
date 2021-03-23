@@ -1,12 +1,12 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-**:loudspeaker:******::anchor:**** **::point_down:****Important**
+:loudspeaker:::anchor:::point_down:**Important**
 
 The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
 
 The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
 
-**With sincere appreciation for long-term support from Economic X Nodes holders, VeChain will support 50% additional funds for Economic X node. It's notable that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant. **
+**With sincere appreciation for long-term support from Economic X Nodes holders, VeChain will support 50% additional funds for Economic X node. It's notable that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant.**
 
 ## Table of contents
 
@@ -15,11 +15,11 @@ The VeChain General Grant Program focuses on supporting ecosystem projects and r
 - [Support](#support)
   - [Team](#team)
   - [Additional information](#additional-information)
-  - [Dev Community Telegram](#VeChain Dev Community Telegram)
-  - [Other Bounty Programs](#Other Bounty Programs)
+  - [Dev Community Telegram](#vechain-dev-community-telegram)
+  - [Other Bounty Programs](#other-bounty-programs)
 
 
-### Guidelines
+## Guidelines
 
 Anyone is welcome to apply for a general grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects that add value to the ecosystem.
 
@@ -60,11 +60,11 @@ In addition to the information provided on your application, note that your proj
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
-## :bulb: Support
+## Support
 
-#### Team
+### Team
 
-##### VeChain Grant Committee
+#### VeChain Grant Committee
 
 The committee consists of individuals who know the funding priorities of the VeChain ecosystem and is responsible for evaluating grant applications and providing feedback on these.
 
@@ -75,7 +75,7 @@ In cases where a niche expert opinion is desirable, one of the committee members
 - [Bin Qian](https://github.com/qianbin)
 - pending？
 
-##### VeChain Grant Evaluators
+#### VeChain Grant Evaluators
 
 Evaluators are individuals who will perform the preliminary review to check whether the application is formatted correctly and includes all the requested information. The committee has the right to add or remove evaluators based on a supermajority.
 
@@ -86,7 +86,7 @@ Evaluators are individuals who will perform the preliminary review to check whet
 - [Zhijie Ren](https://github.com/Zhijieren)
 - [Asbert Ma](http://github.com/asbertMa/)
 
-##### VeChain Operation Team
+#### VeChain Operation Team
 
 The Operations Team takes care of fund remittances.
 
