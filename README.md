@@ -1,32 +1,26 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-**:loudspeaker:** **Important:** The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. Once the application is accepted, the first payment will be immediately disbursed to fund the project.
+**:loudspeaker:****:loudspeaker:****:loudspeaker:** 
 
-With sincere appreciation for long-term support from Economic Nodes and Economic X Nodes holders, VeChain will support 5% additional fund for applicants own Economic Node, and 15% for Economic X node. Note that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant. 
+The competitiveness and long-term success of a public blockchain platform depends on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To acctract more developers and projects to join VeChaain'e ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc.. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
+
+The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
+
+**With sincere appreciation for long-term support from Economic X Nodes holders, VeChain will support 50% additional fund for Economic X node. It's notable that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant. **
 
 ---
 
-- [:wave: Introduction](#introduction)
-  - [Guidelines](#guidelines)
-  - [Support](#support)
-  - [Team](#team)
+- [Guidelines](#guidelines)
+- [:pencil:Process](#process)
+- [Team](#team)
     - [VeChain Grant Committee](#vechain-grant-committee)
     - [VeChain Grant Evaluators](#vechain-grant-evaluators)
     - [VeChain Operation Team](#vechain-operation-team)
-- [:pencil:Process](#process)
-- [:bulb: Help](#help)
+- [:bulb: Support](#support)
   - [Additional information](#additional-information)
-  - [Real-time conversation](#real-time-conversation)
+  - [VeChain Dev Community Telegram](#VeChain Dev Community Telegram)
+  - [Other Bounty Programs](#Other Bounty Programs)
 
-## :wave:  Introduction
-
-As part of our commitment to promoting the VeChain ecosystem, we offer comprehensive grants and bounty programs focused on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
-
-The General Grant Program tries to achieve the above while being:
-
-- fully transparent,
-- simple, and
-- effective.
 
 ### Guidelines
 
@@ -49,9 +43,26 @@ Additionally, it must fulfill the following requirements:
 In addition to the information provided on your application, note that your project will need to comply with our [Grant Milestone Delivery](/milestone-delivery/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
 
 
-### Support
+## :pencil: Application Process
 
-The scope of our General Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources through [VeChain Dev Community](https://t.me/VeChainDevCommunity). 
+1. **Application**
+   1. [Fork](https://github.com/vechain/Grants-Program/) this repository.
+   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or the research template([`applications/research-template.md`](applications/research-template.md)).Make sure you **do not modify the template file directly**.
+   3. Name the new file after your project: `project_name.md`.
+   4. Fill out the template with the details of your project. The more information you provide, the faster the review.
+   5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
+   6. Please read the [disclaimer](disclaimer.md) carefully before applying for VeChain General Grant.
+2. **Preliminary Review**
+   After its submission, an application moves into the preliminary review stage where an administrator will be designated to check whether the application is formatted correctly and includes all the requested information. The [Evaluators](#vechain-grant-evaluators) will label the pull request "ready for committee review" if the application passed the preliminary review.
+   
+3. **Committee Review**
+  A five-member grant committee will evaluate, comment and make decisions on all the applications passing the preliminary review. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.The application is accepted when all requested changes are addressed, and one committee member approves your pull request. And the final decisions made by the committee will be put on the website to notify applicants and the community. 
+ 
+4. **Milestone Delivery and Payment**
+   Milestones are to be delivered on the [Grant Milestone Delivery](milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#mailbox-milestone-delivery-process). **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
+
+The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
+
 
 ### Team
 
@@ -84,43 +95,17 @@ The Operations Team takes care of remittances.
 - [Janice Hua](https://github.com/JaniceVVV)
 - [Sherry Li](https://github.com/NecoSherry)
 
-## :pencil: Process
+## :bulb: Support
 
-1. **Application**
-   1. [Fork](https://github.com/vechain/Grants-Program/) this repository.
-   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or the research template([`applications/research-template.md`](applications/research-template.md)).Make sure you **do not modify the template file directly**.
-   3. Name the new file after your project: `project_name.md`.
-   4. Fill out the template with the details of your project. The more information you provide, the faster the review.
-   5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
-   6. Please read the [disclaimer](disclaimer.md) carefully before applying for VeChain General Grant.
-2. **Preliminary Review**
-   1. The [Evaluators](#vechain-grant-evaluators) will check if the application is formatted correctly and includes all requested information. 
-   2. The [Evaluators](#vechain-grant-evaluators) can (and usually does) issue comments and request additional information on the pull request.
-   3. The [Evaluators](#vechain-grant-evaluators) will label the pull request "ready for committee review" if the application passed the preliminary review.
-3. **Committee Review**
-   1. The [committee](#vechain-grant-committee) can (and usually does) issue comments and request changes on the pull request.
-   2. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.
-   3. The application is accepted when all requested changes are addressed, and one committee member approves your pull request.
-4. **Milestone Delivery and Payment**
-   1. Milestones are to be delivered on the [Grant Milestone Delivery](milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#mailbox-milestone-delivery-process).
-   2. Once the application is accepted, the first payment will be immediately disbursed to fund the project.
-
-
-The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
-
-
-## :bulb: Help
+The scope of our General Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources through [VeChain Dev Community](https://t.me/VeChainDevCommunity). 
 
 ### Additional information
 - [VeChain Foundation Website](https://vechain.org)
 - [VeChain Foundation Twitter](https://twitter.com/vechainofficial)
 - [VeChain Foundation Medium](https://vechainofficial.medium.com/)
 
-### Real-time conversation
-
-We have Element channels for real-time discussions on VeChain blockchain. Join the conversation.
-
-- [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity)
+### VeChain Dev Community Telegram
+We do not provide hands-on support to applications, but if you face specific technical issues during the developement, please join the [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity), we will do our best.
 
 
 ### Other Bounty Programs
