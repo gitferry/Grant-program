@@ -18,17 +18,16 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 
 | Team | Project | Link | Funds |
 | --- | --- | --- | --- |
-| [Team1](https://team.io) | Project 1 | [GitHub](https://github.com/project1) | [3,000 USD](https://explore.vechain.org/) | 
-| [Team2](https://team.io) | Project 2 | [GitHub](https://github.com/project2) | [1,000 USD](https://explore.vechain.org/) | 
-| [Team3](https://team.io) | Project 3 | [GitHub](https://github.com/project3) | [20,000 USD](https://explore.vechain.org/) | 
-| [Team4](https://team.io) | Project 4 | [GitHub](https://github.com/project4) | [10,000 USD](https://explore.vechain.org/) | 
+| [Team1](https://team.io) | Project 1 | [GitHub](https://github.com/project1) | 3,000 USD | 
+| [Team2](https://team.io) | Project 2 | [GitHub](https://github.com/project2) | 1,000 USD | 
+| [Team3](https://team.io) | Project 3 | [GitHub](https://github.com/project3) | 20,000 USD | 
+| [Team4](https://team.io) | Project 4 | [GitHub](https://github.com/project4) | 10,000 USD | 
 
 ## Round 2 - July to Auguest
 
 | Team | Project | Link | Funds |
 | --- | --- | --- | --- |
-| [Team1](https://team.io) | Project 1 | [GitHub](https://github.com/project1) | [3,000 USD](https://explore.vechain.org/) | 
-| [Team2](https://team.io) | Project 2 | [GitHub](https://github.com/project2) | [1,000 USD](https://explore.vechain.org/) | 
-| [Team3](https://team.io) | Project 3 | [GitHub](https://github.com/project3) | [20,000 USD](https://explore.vechain.org/) | 
-| [Team4](https://team.io) | Project 4 | [GitHub](https://github.com/project4) | [10,000 USD](https://explore.vechain.org/) | 
-
+| [Team1](https://team.io) | Project 1 | [GitHub](https://github.com/project1) | 3,000 USD | 
+| [Team2](https://team.io) | Project 2 | [GitHub](https://github.com/project2) | 1,000 USD | 
+| [Team3](https://team.io) | Project 3 | [GitHub](https://github.com/project3) | 20,000 USD | 
+| [Team4](https://team.io) | Project 4 | [GitHub](https://github.com/project4) | 10,000 USD | 
