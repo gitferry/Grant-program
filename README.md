@@ -1,21 +1,22 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-:loudspeaker::anchor::point_down:**Introduction**
-
-The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
-
-The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
-
-**With sincere appreciation for long-term support from Economic X Nodes holders, VeChain will support 50% additional funds for Economic X node. It's notable that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant.**
-
 ## Table of contents
 
+- [Introduction](#introduction)
 - [Guidelines](#guidelines)
 - [Application Process](#application-process)
 - [Support](#support)
   - [Team](#team)
   - [Other Bounty Programs](#other-bounty-programs)
   - [Additional information](#additional-information)
+
+## Introduction
+
+The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
+
+The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
+
+**With sincere appreciation for long-term support from Economic X Nodes holders, VeChain will support 50% additional funds for Economic X node. It's notable that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant.**
 
 
 ## Guidelines
