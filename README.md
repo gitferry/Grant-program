@@ -1,6 +1,6 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-:loudspeaker:::anchor:::point_down:**Introduction**
+:loudspeaker::anchor::point_down:**Introduction**
 
 The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs，including General Grant Program, Bug Bounty, Hackathon, etc. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
 
@@ -11,7 +11,7 @@ The VeChain General Grant Program focuses on supporting ecosystem projects and r
 ## Table of contents
 
 - [Guidelines](#guidelines)
-- [Process](#process)
+- [Application Process](#application-process)
 - [Support](#support)
   - [Team](#team)
   - [Other Bounty Programs](#other-bounty-programs)
@@ -49,15 +49,18 @@ In addition to the information provided on your application, note that your proj
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
    6. Please read the [disclaimer](disclaimer.md) carefully before applying for VeChain General Grant.
 2. **Preliminary Review**
+
    After its submission, an application moves into the preliminary review stage where an administrator will be designated to check whether the application is formatted correctly and includes all the requested information. The [Evaluators](#vechain-grant-evaluators) will label the pull request "ready for committee review" if the application passed the preliminary review.
    
 3. **Committee Review**
-  A five-member grant committee will evaluate, comment and make decisions on all the applications passing the preliminary review. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.The application is accepted when all requested changes are addressed, and one committee member approves your pull request. And the final decisions made by the committee will be put on the website to notify applicants and the community. 
+
+   A five-member grant committee will evaluate, comment and make decisions on all the applications passing the preliminary review. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.The application is accepted when all requested changes are addressed, and one committee member approves your pull request. And the final decisions made by the committee will be put on the website to notify applicants and the community. 
  
 4. **Milestone Delivery and Payment**
-   Milestones are to be delivered on the [Grant Milestone Delivery](milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#mailbox-milestone-delivery-process). **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
 
-The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
+   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#mailbox-milestone-delivery-process). **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
+
+   The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
 ## Support
 
@@ -97,7 +100,7 @@ The Operations Team takes care of fund remittances.
 
 Below is a list of other bounty programs in the VeChain ecosystem:
 
-- [VeChainThor Mainnet Bug Bounty](https://github.com/vechain/thor)
+- [VeChainThor Mainnet Bug Bounty](https://github.com/vechain/thor/issues)
 - [VeChainThor Wallet Bug Bounty](https://vechain.typeform.com/to/c8xfxr)
 
 ### Additional information
