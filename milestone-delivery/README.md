@@ -7,7 +7,7 @@
 
 ## Milestone Delivery Process
 
-The milestone delivery process is part of the [General Grant Program](../README.md). You can find the application process [here](../README.md#process).  
+The milestone delivery process is part of the [General Grant Program](https://github.com/vechain/Grant-Program/). You can find the application process [here](../README.md#process).  
 
 1. **Milestone Delivery:**
    1. In the fork that you used to submit the applicaiton, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
@@ -15,10 +15,10 @@ The milestone delivery process is part of the [General Grant Program](../README.
    3. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
    4. Once you're done, create a pull request.
 2. **Milestone Review:**
-   1. [Evaluators](../README.md#vechain-grant-evaluators) will review and comment on the pull request. Their feedback needs to be resolved before your milestone is accepted.
+   1. [Evaluators](https://github.com/vechain/Grant-Program#vechain-grant-evaluators) will review and comment on the pull request. Their feedback needs to be resolved before your milestone is accepted.
    2. Grants Evaluators will merge your pull request to accept the delivery.
 3. **Milestone Payment:**
-   1. The [Operation Team](../README.md#vechain-operation-team) receives a notification once the delivery is accepted.
+   1. The [Operation Team](https://github.com/vechain/Grant-Program#vechain-operation-team) receives a notification once the delivery is accepted.
    2. Payment is made to the ERC 20 address specified in the initial application. 
 
 If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
