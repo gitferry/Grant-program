@@ -43,7 +43,7 @@ In addition to the information provided on your application, note that your proj
 ## Application Process
 
 1. **Application**
-   1. [Fork](https://github.com/vechain/Grants-Program/) this repository.
+   1. [Fork](https://github.com/vechain/Grant-Program/) this repository.
    2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or the research template([`applications/research-template.md`](applications/research-template.md)).Make sure you **do not modify the template file directly**.
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review.
