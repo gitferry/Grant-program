@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs, including General Grant Program, Bug Bounty, Hackathon, etc. All of these programs are focusing on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
+The competitiveness and long-term success of a public blockchain platform depend on its developer community and ecosystem stakeholders to constantly bring innovations and values to the platform. To attract more developers and projects to join VeChain's ecosystem and eventually bring more valuable transactions on VeChainThor, VeChain provides comprehensive grant and bounty programs, including General Grant Program, Bug Bounty, Hackathon, etc. There is **NO** boundary on the subject of the projects, as long as it would contribute to the flourish of blockchain world and a brighter future of humanity. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
 
 The VeChain General Grant Program focuses on supporting ecosystem projects and researches, the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
 
@@ -21,15 +21,14 @@ The VeChain General Grant Program focuses on supporting ecosystem projects and r
 
 ## Guidelines
 
-Anyone is welcome to apply for a general grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects related to **Sync2/Connex, fee delegation protocols, MTT, etc** which add value to the ecosystem.
-
 Generally, your project will have better chances to get accepted if:
 
-- It presents a **well-researched** or tested concept, for which ideally you can show some prior work.
-- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
-- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. We ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
+- The subject has been **well-studied**, for which the team should provide a well-presented intro about the subject, including background, prior works, and all technicial bases.
+- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. For development projects, we ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms. For research projcets, cv's of all applicants should be provided.
 - Your application is **rich in technical details** and well-defined.
+- For development projects, you can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - You can present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
+- A direct contribution to VeChain's technology, i.e., a project related to Sync2/Connex, fee delegation protocols, MTT, etc., is a plus.
 
 Additionally, it must fulfill the following requirements:
 
