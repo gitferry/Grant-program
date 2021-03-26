@@ -19,12 +19,8 @@
 
 The general grant program is designed to fund projects covering a wide range of topics, including, but not limited to, 
 
-- Decentralized applications (e.g., gaming, DeFi, NFT, etc)
-- Tools/libs for testing
-- Tools/libs for frontend development
-- Infrastures (e.g., explorer, status dashboard, node service, etc)
-- Interoperability
-- Wallet integration 
+- Dev tools and libraries
+- Community projects (e.g., gaming, DeFi, NFT, etc)
 - Enterprise applications
 - Research projects (e.g., tokenomics, governance, privacy, etc).
 
@@ -40,11 +36,18 @@ Each application can be funded up to **$30,000**. All Applications will be track
 
 Generally, your project will have better chances to get accepted if:
 
-- It presents a **well-researched** or tested concept, for which ideally you can show some prior work.
+<!--- It presents a **well-researched** or tested concept, for which ideally you can show some prior work.
 - You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. We ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
 - Your application is **rich in technical details** and well-defined.
+- You can present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.-->
+
+- The subject has been **well-studied**, for which the team should provide a well-presented intro about the subject, including background, prior works, and all technicial bases.
+- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. For development projects, we ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms. For research projects, cv's of all applicants should be provided.
+- Your application is **rich in technical details** and well-defined.
+- For development projects, you can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - You can present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
+- A direct contribution to VeChain's technology and/or ecosystem is a plus.
 
 Additionally, it must fulfill the following requirements:
 
