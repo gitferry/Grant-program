@@ -22,7 +22,7 @@ The general grant program is designed to fund projects covering a wide range of 
 - Decentralized applications (e.g., gaming, DeFi, NFT, etc)
 - Tools/libs for testing
 - Tools/libs for frontend development
-- Infrastrures (e.g., explorer, status dashboard, node service, etc)
+- Infrastructures (e.g., explorer, status dashboard, node service, etc)
 - Interoperability
 - Wallet integration 
 - Enterprise applications
@@ -46,8 +46,8 @@ Generally, your project will have better chances to get accepted if:
 - Your application is **rich in technical details** and well-defined.
 - You can present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.-->
 
-- The subject has been **well-studied**, for which the team should provide a well-presented intro about the subject, including background, prior works, and all technicial bases.
-- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. For development projects, we ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms. For research projects, cv's of all applicants should be provided.
+- The subject has been **well-studied**, for which the team should provide a well-presented intro about the subject, including background, prior works, and all technical bases.
+- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. For development projects, we ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms. For research projects, CVs of all applicants should be provided.
 - Your application is **rich in technical details** and well-defined.
 - For development projects, you can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - You can present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
