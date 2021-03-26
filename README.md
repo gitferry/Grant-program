@@ -19,8 +19,12 @@
 
 The general grant program is designed to fund projects covering a wide range of topics, including, but not limited to, 
 
-- Dev tools and libraries
-- Community projects (e.g., gaming, DeFi, NFT, etc)
+- Decentralized applications (e.g., gaming, DeFi, NFT, etc)
+- Tools/libs for testing
+- Tools/libs for frontend development
+- Infrastures (e.g., explorer, status dashboard, node service, etc)
+- Interoperability
+- Wallet integration 
 - Enterprise applications
 - Research projects (e.g., tokenomics, governance, privacy, etc).
 
